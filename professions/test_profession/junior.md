@@ -1,9 +1,9 @@
 # Junior
 
 ## machine-learning
-[machine-learning](https://www.coursera.org/learn/machine-learning)
-![Image](https://octodex.github.com/images/yaktocat.png)
-Description of machine learn
+__[machine-learning](https://www.coursera.org/learn/machine-learning)__
+__![Image](https://octodex.github.com/images/yaktocat.png)__
+__Description of machine learn__
 
 ## google-drive
 [google-drive](https://github.com/googledrive/realtime-tasks/blob/master/app/index.html)
