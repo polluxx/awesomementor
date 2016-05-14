@@ -22,5 +22,6 @@ Want to learn Angular 2 from scratch in a fun, step-by-step and pragmatic way? W
 
 ## AngularJS tutorial for beginners
 (https://www.youtube.com/watch?v=ejBkOjEG6F0)
-![Image] (https://i.ytimg.com/vi/zKkUN-mJtPQ/default.jpg)
+![Image]
+(https://i.ytimg.com/vi/zKkUN-mJtPQ/default.jpg)
 We will start with the basics and cover all the advanced concepts of AngularJS as we progress.
